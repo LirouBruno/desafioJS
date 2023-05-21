@@ -1,3 +1,10 @@
 body{
     background-color: rgb(243, 243, 174);
 }
+.botao{
+    display: block;
+    align-items: center;
+}
+.titulo{
+    text-align: center;
+}
